@@ -1,3 +1,13 @@
+## Screenshots
+Here are some visuals of the RAG Chatbot in action:
+
+- **Main Interface**:  
+  ![Streamlit Interface](docs/screenshots/streamlit_interface.png)  
+- **Source Chunks**:  
+  ![Source Chunks](docs/screenshots/source_chunks.png)  
+- **Sidebar Info**:  
+  ![Sidebar](docs/screenshots/sidebar.png)
+
 # Amlgo Labs RAG Chatbot
 
 This repository contains a Retrieval-Augmented Generation (RAG) chatbot built for the Amlgo Labs Junior AI Engineer Assignment. The chatbot processes the "AI Training Document.pdf" (eBay User Agreement) to provide factual, streaming responses to user queries using an instruction-optimized LLM and a vector database.
