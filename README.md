@@ -2,11 +2,11 @@
 Here are some visuals of the RAG Chatbot in action:
 
 - **Main Interface**:  
-  ![Streamlit Interface](docs/screenshots/streamlit_interface.png)  
+  ![Streamlit Interface](streamlit_interface.png)  
 - **Source Chunks**:  
-  ![Source Chunks](docs/screenshots/source_chunks.png)  
+  ![Source Chunks](source_chunks.png)  
 - **Sidebar Info**:  
-  ![Sidebar](docs/screenshots/sidebar.png)
+  ![Sidebar](sidebar.png)
 
 # Amlgo Labs RAG Chatbot
 
